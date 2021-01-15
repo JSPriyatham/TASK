@@ -15,9 +15,11 @@ hr.new3 {
 
 .ext1 {
     border-right: 0px solid transparent !important;
+    min-height: 110% !important;
 }
 .ext2 {
     border-left: 0px solid transparent !important;
+    min-height: 110% !important;
 }
 
 span.h1 {
@@ -33,4 +35,3 @@ span.h1 {
     cursor: pointer;
     margin-top: 20% !important;
 }
-
